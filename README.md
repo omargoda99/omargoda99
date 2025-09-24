@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omargoda99" alt="omargoda99" /></a> </p>
 
-- 🌱 I’m currently learning **SOLID, Design Patterns, Advanced DBMS, DB Internals, Spring boot, Angular, React Native, Laravel**
+- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, DFIR, Binary Exploitation and Firmware Security**
 
 - 📝 I regularly write articles on [https://medium.com/@NullOverlord](https://medium.com/@NullOverlord)
 
-- 💬 Ask me about **react native, laravel, Java, OOP, OOD&A, Operating Systems, RestFul APIs, SOAP**
+- 💬 Ask me about **C, C++, x86, x64-86, ARM, PHP, Laravel, MySQL, Java Core**
 
 - 📫 How to reach me **ogoda787@gmail.com**
 
