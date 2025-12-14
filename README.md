@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Goda</h1>
-<h3 align="center">A passionate frontend developerA passionate software engineer from Egypt, who is interested in building maintainable, scalable, and performant systems, very interested in system design and architecture from India</h3>
+<h3 align="center">A passionate software engineer and a Security Engineer from Egypt, who is interested in building maintainable, scalable, and performant systems, very interested in SOC, DFIR and Malware Analysis from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omargoda99&label=Profile%20views&color=0e75b6&style=flat" alt="omargoda99" /> </p>
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **C, C++, x86, x64-86, ARM, PHP, Laravel, MySQL, Java Core**
 
 - 📫 How to reach me **ogoda787@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wEByLsoo0lNY9wgSuKHSEVPvUJnm_Gju/view?usp=drive_link](https://drive.google.com/file/d/1wEByLsoo0lNY9wgSuKHSEVPvUJnm_Gju/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
