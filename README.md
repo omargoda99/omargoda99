@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, DFIR, Binary Exploitation and Firmware Security**
 
-- 📝 I regularly write articles on [https://medium.com/@NullOverlord](https://medium.com/@NullOverlord)
+- 📝 I regularly write articles on [https://medium.com/@G0daPwN](https://medium.com/@G0daPwN)
 
 - 💬 Ask me about **C, C++, x86, x64-86, ARM, PHP, Laravel, MySQL, Java Core**
 
