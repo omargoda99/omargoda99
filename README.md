@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omar Goda</h1>
-<h3 align="center">A passionate software engineer and a Security Engineer from Egypt, who is interested in building maintainable, scalable, and performant systems, very interested in SOC, DFIR and Malware Analysis from Egypt</h3>
+<h3 align="center">A passionate Security Engineer from Egypt, who is interested in building maintainable, scalable, and performant low level systems, very interested in SOC, DFIR and Malware Analysis </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omargoda99&label=Profile%20views&color=0e75b6&style=flat" alt="omargoda99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omargoda99" alt="omargoda99" /></a> </p>
 
-- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, DFIR, Binary Exploitation and Firmware Security**
+- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, DFIR, Binary Exploitation and Drivers, Firmware Security**
 
 - 📝 I regularly write articles on [https://medium.com/@G0daPwN](https://medium.com/@G0daPwN)
 
-- 💬 Ask me about **C, C++, x86, x64-86, ARM, PHP, Laravel, MySQL, Java Core**
+- 💬 Ask me about **C, C++, x86, x64-86, ARM, PHP, Laravel, MySQL, Java Core, Number Theory, Cryptography, MIPS, Low level systems**
 
 - 📫 How to reach me **ogoda787@gmail.com**
 
